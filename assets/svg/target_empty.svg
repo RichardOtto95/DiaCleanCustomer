@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.238" height="90.043" viewBox="0 0 89.238 90.043">
+  <g id="Grupo_3984" data-name="Grupo 3984" transform="translate(-6400 -887.269)">
+    <ellipse id="Elipse_469" data-name="Elipse 469" cx="39.08" cy="39.08" rx="39.08" ry="39.08" transform="translate(6400 899.151)" fill="#584f6e"/>
+    <g id="Elipse_472" data-name="Elipse 472" transform="translate(6405.941 905.092)" fill="#584f6e" stroke="#fff" stroke-width="1">
+      <ellipse cx="33.48" cy="33.48" rx="33.48" ry="33.48" stroke="none"/>
+      <ellipse cx="33.48" cy="33.48" rx="32.98" ry="32.98" fill="none"/>
+    </g>
+    <g id="Elipse_596" data-name="Elipse 596" transform="translate(6414.853 914.004)" fill="#584f6e" stroke="#fff" stroke-width="1">
+      <ellipse cx="24.568" cy="24.568" rx="24.568" ry="24.568" stroke="none"/>
+      <ellipse cx="24.568" cy="24.568" rx="24.068" ry="24.068" fill="none"/>
+    </g>
+    <g id="Elipse_597" data-name="Elipse 597" transform="translate(6423.765 922.916)" fill="#584f6e" stroke="#fff" stroke-width="1">
+      <ellipse cx="15.656" cy="15.656" rx="15.656" ry="15.656" stroke="none"/>
+      <ellipse cx="15.656" cy="15.656" rx="15.156" ry="15.156" fill="none"/>
+    </g>
+    <line id="Linha_713" data-name="Linha 713" y1="32.452" x2="30.575" transform="translate(6439.234 905.779)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1"/>
+    <path id="Interseção_69" data-name="Interseção 69" d="M0,5.142A9.974,9.974,0,0,1,8.827,0a9.974,9.974,0,0,1,8.827,5.142,9.974,9.974,0,0,1-8.827,5.142A9.974,9.974,0,0,1,0,5.142Z" transform="translate(6430.594 933.43)" fill="#fff"/>
+    <g id="Grupo_3892" data-name="Grupo 3892" transform="translate(6436.909 936.06)">
+      <path id="Path" d="M2.513,5.025A2.513,2.513,0,1,1,5.025,2.513,2.515,2.515,0,0,1,2.513,5.025Zm0-4.112a1.6,1.6,0,1,0,1.6,1.6A1.6,1.6,0,0,0,2.513.914Z" transform="translate(0)" fill="#fff"/>
+      <path id="Shape" d="M1.753,3.506A1.753,1.753,0,1,1,3.506,1.753,1.753,1.753,0,0,1,1.753,3.506Z" transform="translate(0.76 0.76)" fill="#fff"/>
+    </g>
+    <g id="Grupo_3893" data-name="Grupo 3893" transform="translate(6465.473 887.269)">
+      <g id="Retângulo_620" data-name="Retângulo 620" transform="translate(0 11.882)" fill="#fff" stroke="#fff" stroke-width="1">
+        <rect width="11.882" height="11.882" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10.882" height="10.882" fill="none"/>
+      </g>
+      <g id="Retângulo_621" data-name="Retângulo 621" fill="#fff" stroke="#fff" stroke-width="1">
+        <path d="M4,0h7.882a0,0,0,0,1,0,0V11.882a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5h7.382a0,0,0,0,1,0,0V11.382a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <g id="Retângulo_622" data-name="Retângulo 622" transform="translate(11.882 11.882)" fill="#fff" stroke="#fff" stroke-width="1">
+        <path d="M0,0H11.882a0,0,0,0,1,0,0V7.882a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.5.5H11.382a0,0,0,0,1,0,0V7.882a3.5,3.5,0,0,1-3.5,3.5H.5a0,0,0,0,1,0,0V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
